@@ -1,6 +1,6 @@
-package com.razorpay.repository;
+package com.lld.repository;
 
-import com.razorpay.model.Database;
+import com.lld.model.Database;
 import lombok.Data;
 import java.util.Map;
 

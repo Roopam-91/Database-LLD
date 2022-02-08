@@ -1,10 +1,10 @@
-package com.razorpay.service.impl;
+package com.lld.service.impl;
 
-import com.razorpay.model.Column;
-import com.razorpay.model.Database;
-import com.razorpay.model.Table;
-import com.razorpay.repository.DatabaseRepository;
-import com.razorpay.service.DatabaseManager;
+import com.lld.model.Column;
+import com.lld.model.Database;
+import com.lld.model.Table;
+import com.lld.repository.DatabaseRepository;
+import com.lld.service.DatabaseManager;
 
 import java.util.List;
 import java.util.Objects;

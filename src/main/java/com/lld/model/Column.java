@@ -1,6 +1,6 @@
-package com.razorpay.model;
+package com.lld.model;
 
-import com.razorpay.service.Constraint;
+import com.lld.service.Constraint;
 import lombok.Data;
 
 @Data

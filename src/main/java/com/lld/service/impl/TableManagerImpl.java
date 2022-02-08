@@ -1,12 +1,12 @@
-package com.razorpay.service.impl;
+package com.lld.service.impl;
 
-import com.razorpay.model.Cell;
-import com.razorpay.model.Row;
-import com.razorpay.model.Table;
-import com.razorpay.repository.DatabaseRepository;
-import com.razorpay.service.Constraint;
-import com.razorpay.service.Predicate;
-import com.razorpay.service.TableManager;
+import com.lld.model.Cell;
+import com.lld.model.Row;
+import com.lld.model.Table;
+import com.lld.repository.DatabaseRepository;
+import com.lld.service.Constraint;
+import com.lld.service.Predicate;
+import com.lld.service.TableManager;
 
 import java.util.Map;
 import java.util.Objects;

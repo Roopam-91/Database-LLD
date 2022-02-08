@@ -1,4 +1,4 @@
-package com.razorpay.model;
+package com.lld.model;
 
 import lombok.Data;
 

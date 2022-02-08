@@ -1,4 +1,4 @@
-package com.razorpay.model;
+package com.lld.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

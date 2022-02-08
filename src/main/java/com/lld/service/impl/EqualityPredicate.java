@@ -1,7 +1,7 @@
-package com.razorpay.service.impl;
+package com.lld.service.impl;
 
-import com.razorpay.model.Row;
-import com.razorpay.service.Predicate;
+import com.lld.model.Row;
+import com.lld.service.Predicate;
 
 import java.util.Map;
 

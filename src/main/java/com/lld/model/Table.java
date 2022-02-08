@@ -1,10 +1,8 @@
-package com.razorpay.model;
+package com.lld.model;
 
 import lombok.Data;
 
-import java.util.List;
 import java.util.Map;
-import java.util.Set;
 
 @Data
 public class Table {

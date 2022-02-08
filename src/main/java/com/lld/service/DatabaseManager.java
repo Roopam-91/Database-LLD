@@ -1,6 +1,6 @@
-package com.razorpay.service;
+package com.lld.service;
 
-import com.razorpay.model.Column;
+import com.lld.model.Column;
 
 import java.util.List;
 

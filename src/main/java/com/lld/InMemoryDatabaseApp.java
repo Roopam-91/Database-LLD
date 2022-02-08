@@ -1,11 +1,11 @@
-package com.razorpay;
+package com.lld;
 
-import com.razorpay.model.*;
-import com.razorpay.repository.DatabaseRepository;
-import com.razorpay.service.DatabaseManager;
-import com.razorpay.service.impl.DatabaseManagerImpl;
-import com.razorpay.service.impl.EqualityPredicate;
-import com.razorpay.service.impl.TableManagerImpl;
+import com.lld.model.*;
+import com.lld.repository.DatabaseRepository;
+import com.lld.service.DatabaseManager;
+import com.lld.service.impl.DatabaseManagerImpl;
+import com.lld.service.impl.EqualityPredicate;
+import com.lld.service.impl.TableManagerImpl;
 
 import java.util.*;
 
@@ -14,7 +14,7 @@ public class InMemoryDatabaseApp {
         DatabaseRepository databaseRepository = new DatabaseRepository();
         DatabaseManager databaseManager = new DatabaseManagerImpl(databaseRepository);
         TableManagerImpl tableManager = new TableManagerImpl(databaseRepository);
-        
+
         // Create database
 
         databaseManager.createDatabase("Razorpay");

@@ -1,8 +1,7 @@
-package com.razorpay.service;
+package com.lld.service;
 
-import com.razorpay.model.Row;
+import com.lld.model.Row;
 
-import java.util.List;
 import java.util.Map;
 
 public interface TableManager {
